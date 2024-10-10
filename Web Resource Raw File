@@ -1,0 +1,256 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------
+<List>
+Fabric- https://www.infralovers.com/blog/2024-06-25-fabric-overview/
+Blog - https://mrmaheshrajput.medium.com/how-to-productionize-large-language-models-llms-060a4cb1a169
+Blog - https://developer.salesforce.com/blogs/2023/08/building-ai-powered-apps-with-llms-and-einstein
+Awesome AiTools - https://github.com/ikaijua/Awesome-AITools
+Blog - https://thenewstack.io/how-to-build-an-ai-agent-with-semantic-router-and-llm-tools/
+Blog - https://secondtimesacharm.ca/local-llm-web-ui/
+Blog - https://www.adapptor.com.au/blog/how-to-build-your-own-ai-tools-for-business
+datachain- https://dvc.org/doc
+NuShell - https://www.nushell.sh/
+GRADIO pre-built components -https://www.gradio.app/custom-components/gallery
+Rust - https://www.rust-lang.org/tools/install
+- https://github.com/go-skynet/go-llama.cpp/
+Unity - https://assetstore.unity.com/
+.NET (Microsoft & Open Source Community)- https://github.com/dotnet
+MudBlazor - https://github.com/MudBlazor/MudBlazor/
+MudBlazor.Markdown - https://github.com/MyNihongo/MudBlazor.Markdown
+Tauri - https://github.com/tauri-apps/tauri
+Rocket - https://github.com/rwf2/Rocket
+[Librechat- https://github.com/danny-avila/LibreChat
+BigAGI- https://github.com/enricoros/big-AGI/tree/main
+LlmChat- https://github.com/trendy-design/llmchat
+CHATBox-https://github.com/Bin-Huang/chatbox
+MSTY AI- https://github.com/cloudstack-llc/msty-docs
+PrivateGPT- https://github.com/zylon-ai/private-gpt
+open-webui- https://github.com/open-webui/open-webui
+LiteLLM- https://github.com/BerriAI/litellm
+- https://docs.litellm.ai/
+petals- https://github.com/bigscience-workshop/petals
+VLLM- https://github.com/vllm-project/vllm
+OpenInterpreter- https://github.com/OpenInterpreter/open-interpreter
+DocQAI- https://github.com/docqai/docq/
+Langstream- https://github.com/rogeriochaves/langstream
+LLMCord- https://github.com/jakobdylanc/llmcord.py
+GPT Migrate- https://github.com/joshpxyne/gpt-migrate
+YiVal- https://github.com/YiVal/YiVal
+Otter- https://github.com/Luodian/Otter
+Quivr- https://github.com/QuivrHQ/quivr
+Clarifai- https://github.com/clarifai
+Prompt2Model- https://github.com/neulab/prompt2model
+CerebrasAI- https://github.com/Cerebras
+Koboldcpp- https://github.com/LostRuins/koboldcpp
+OpenRouter- https://github.com/OpenRouterTeam/open-webui
+Baseten- https://github.com/basetenlabs
+Text_generation_inference-https://huggingface.co/docs/text-generation-inference/index
+HuggingChat- https://huggingface.co/docs/chat-ui/index
+HuggingFace- https://github.com/huggingface
+LMdeploy- https://github.com/InternLM/lmdeploy
+-https://lmdeploy.readthedocs.io/en/latest/index.html
+WriteSonic- https://writesonic.com/
+JasperAI- https://www.jasper.ai/
+JemaAI- https://github.com/yuvalsuede/jasper-alternative-gpt
+Harbor- https://github.com/av/harbor
+Ollama- https://github.com/ollama/ollama
+OllamaGUI- https://github.com/ollama-interface/Ollama-Gui?tab=readme-ov-file
+Pyannote Audio- https://github.com/pyannote/pyannote-audio
+Llamafile- https://github.com/Mozilla-Ocho/llamafile
+Groq- https://console.groq.com/docs/quickstart
+JanAI- https://github.com/janhq/jan
+AnythingLLM- https://github.com/Mintplex-Labs/anything-llm
+Cohere- https://docs.cohere.com/
+LoLLMs- https://github.com/ParisNeo/lollms-webui
+ChatbotUI- https://github.com/mckaywrigley/chatbot-ui
+DIFY- https://github.com/langgenius/dify
+ChatD- https://github.com/BruceMacD/chatd
+LLM X- https://github.com/mrdjohnson/llm-x
+Stable Diffusion web UI- https://github.com/AUTOMATIC1111/stable-diffusion-webui?tab=readme-ov-file#installation-and-running
+OllamaChats- https://github.com/drazdra/ollama-chats
+QAPilot- https://github.com/reid41/QA-Pilot
+RagFlow- https://github.com/infiniflow/ragflow
+LobeCHAT- https://github.com/lobehub/lobe-chat
+RagChatbot- https://github.com/datvodinh/rag-chatbot
+Gradio- https://github.com/gradio-app/gradio
+- https://www.gradio.app/custom-components/gallery
+LmDeploy- https://github.com/InternLM/lmdeploy
+Llamacode- https://github.com/Nutlope/llamacoder
+TurboSeek-https://github.com/Nutlope/turboseek
+Napkins- https://github.com/nutlope/napkins
+LLamaTutor- https://github.com/Nutlope/llamatutor
+NotesGPT- https://github.com/nutlope/notesgpt
+NextChat- https://github-com.translate.goog/ChatGPTNextWeb/ChatGPT-Next-Web?tab=readme-ov-file&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en
+Prompts- https://github.com/f/awesome-chatgpt-prompts
+LocalAI- https://github.com/mudler/LocalAI
+Piper- https://github.com/rhasspy/piper
+Whisper.cpp- https://github.com/ggerganov/whisper.cpp
+Stable Diffusion NCNN- https://github.com/EdVince/Stable-Diffusion-NCNN
+LLama.cpp- https://github.com/ggerganov/llama.cpp
+RagnaNano- https://ragna.app/en/features
+BackyardAI- https://backyard.ai/docs/start-guide/overview
+Collama- https://github.com/iohub/coLLaMA
+MindWorksAIStudio- https://github.com/MindWorkAI/AI-Studio
+GPT4All- https://github.com/nomic-ai/gpt4all
+LLMFarm- https://github.com/guinmoon/LLMFarm?tab=readme-ov-file
+API for Open LLMs- https://github-com.translate.goog/xusenlinzy/api-for-open-llm?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-GB
+0x0AI- https://github-com.translate.goog/mushan0x0/AI0x0.com?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-GB
+ChuanhuChatGPT- https://github-com.translate.goog/GaiZhenbiao/ChuanhuChatGPT?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-GB
+FlowiseAI- https://github.com/FlowiseAI/Flowise
+CodeGPT- https://github.com/carlrobertoh/CodeGPT
+SideLLama- https://github.com/gyopak/sidellama
+LLMStack- https://github.com/trypromptly/LLMStack
+GoCrew- https://www.jonathanhecl.com/go-crew/
+Promptly- https://docs.trypromptly.com/
+CherryAI- https://github.com/kangfenmao/cherry-studio
+Archyve- https://github.com/nickthecook/archyve
+OllamaCrewMesop- https://github.com/rapidarchitect/ollama-crew-mesop
+ConfiChat- https://github.com/1runeberg/confichat
+MesopAIPythonBuilder- https://google.github.io/mesop/
+Argo- https://github.com/xark-argo/argo
+Copilot for Obsidian- https://github.com/logancyang/obsidian-copilot
+K8sgpt- https://github.com/k8sgpt-ai/k8sgpt
+Langchain4j- https://github.com/langchain4j/langchain4j
+Zhipuai- https://www-zhipuai-cn.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-GB
+Weaviate.io- https://weaviate.io/
+Jina.ai- https://github.com/jina-ai
+Jlama- https://github.com/tjake/Jlama
+OpenSearch- https://opensearch.org/
+Lingoose- https://github.com/henomis/lingoose
+Mods- https://github.com/charmbracelet/mods
+AISpark- https://github.com/cedriking/spark
+MidoriAI- https://github.com/lunamidori5/Midori-AI
+- https://io.midori-ai.xyz/
+InvokeAI- https://github.com/invoke-ai/InvokeAI/tree/main
+HomeLLM- https://github.com/acon96/home-llm
+AILegion- https://github.com/eumemic/ai-legion
+Charm.sh- https://charm.sh/
+MattermostAIplugin- https://github.com/mattermost/mattermost-plugin-ai
+NomicAI- https://github.com/nomic-ai/nomic
+CometAI-https://www.comet.com/site/
+Lanchain in n8n- https://docs.n8n.io/advanced-ai/langchain/langchain-n8n/?_gl=1cul9ii_gaMTI1MjI2NzczMC4xNzI4NDc1NzIw_ga_0SC4FF2FH9*MTcyODQ4NjE1Mi4yLjEuMTcyODQ4NjE5NS4xNy4wLjA.
+Self-hosted AI starter kit- https://github.com/n8n-io/self-hosted-ai-starter-kit
+SearXNG/HArbor- https://github.com/av/harbor/wiki/2.3.1-Satellite:-SearXNG
+OpenWebUI- https://docs.openwebui.com/
+- https://docs.openwebui.com/features
+ComfyUI- https://github.com/Comfy-Org/ComfyUI_frontend
+ContinueAI- https://github.com/continuedev/continue
+OpenPlayground- https://github.com/nat/openplayground
+RamaLama- https://github.com/containers/ramalama
+ThreeVRM- https://github.com/pixiv/three-vrm
+Three.js- https://github.com/mrdoob/three.js/
+Transformers.js- https://huggingface.co/docs/transformers.js/index
+- https://github.com/huggingface/transformers
+ONNXRuntime- https://onnxruntime.ai/
+HuggingFaceNotebooks- https://huggingface.co/docs/transformers/notebooks
+HuggingFaceTasks- https://huggingface.co/tasks
+OpenAIWhisper- https://openai.com/index/whisper/
+VoiceActivityDetector- https://github.com/ricky0123/vad
+Window.io- https://windowai.io/
+- https://github.com/alexanderatallah/window.ai
+Eleven Labs- https://elevenlabs.io/
+CoquiAI- https://github.com/coqui-ai/TTS
+-https://github.com/idiap/coqui-ai-TTS
+BakLLaVA- https://github.com/SkunkworksAI/BakLLaVA
+Tauri2.0- https://tauri.app/
+CatAI- https://github.com/withcatai/catai
+KodiBot- https://github.com/firatkiral/kodibot
+AIKit- https://github.com/sozercan/aikit
+EVA- https://github-com.translate.goog/ylsdamxssjxxdd/eva?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-GB
+KubectlAI- https://github.com/sozercan/kubectl-ai
+UnslothAI- https://github.com/unslothai/unsloth
+LARS- https://github.com/abgulati/LARS
+GPPM- https://github.com/crashr/gppm
+OLLamaDL- https://github.com/akx/ollama-dl
+LLamaBox- https://github.com/gpustack/llama-box
+GPUStackUI- https://github.com/gpustack/gpustack-ui
+GPUStack- https://github.com/gpustack/gpustack
+- https://github.com/gpustack/gpustack.github.io
+GGify- https://github.com/akx/ggify
+Paddler- https://github.com/distantmagic/paddler
+Mistral.rs- https://github.com/EricLBuehler/mistral.rs
+OpenedaiSpeech- https://github.com/matatonic/openedai-speech
+FasterWhisper- https://github.com/fedirz/faster-whisper-server
+ParlerTTS- https://github.com/huggingface/parler-tts
+TXTGenInference- https://github.com/huggingface/text-generation-inference
+AirLLM- https://github.com/lyogavin/airllm/tree/main
+SGLang- https://github.com/sgl-project/sglang
+Ktransformers- https://github.com/kvcache-ai/ktransformers
+NexaSDK- https://github.com/NexaAI/nexa-sdk
+Hollama- https://github.com/fmaclen/hollama
+Parllama- https://github.com/paulrobello/parllama
+BionicGPT- https://github.com/bionic-gpt/bionic-gpt
+Oobabooga- https://github.com/oobabooga/text-generation-webui
+- https://github.com/oobabooga/text-generation-webui-extensions
+VLLM- https://github.com/vllm-project/vllm
+- https://docs.vllm.ai/en/latest/
+LucidVision-https://github.com/RandomInternetPreson/Lucid_Vision
+AlltalkTTS- https://github.com/erew123/alltalk_tts
+StableDiffusionWebUI- https://github.com/AUTOMATIC1111/stable-diffusion-webui
+LoraxAI- https://github.com/predibase/lorax
+MultiTranslate- https://github.com/janvarev/multi_translate
+APIAdvanced- https://github.com/janvarev/api_advanced
+DynamicContext- https://github.com/elPatrixF/dynamic_context
+FPreloader- https://github.com/FartyPants/FPreloader
+jsonformer- https://github.com/hallucinate-games/oobabooga-jsonformer-plugin
+Guidance API- https://github.com/danikhan632/guidance_api
+webui-autonomics- https://github.com/dibrale/webui-autonomics
+long_term_memory- https://github.com/wawawario2/long_term_memory
+oobabot- https://github.com/chrisrude/oobabot-plugin
+DeeplTranslator- https://github.com/SnowMasaya/text-generation-webui/tree/deepl/extensions/deepl_translate
+webui_langchain_agent- https://github.com/ChobPT/oobaboogas-webui-langchain_agent/
+AutoSave- https://github.com/ill13/AutoSave/
+UI Tweaks- https://github.com/xanthousm/text-gen-webui-ui_tweaks
+EdgeGPT- https://github.com/GiusTex/EdgeGPT
+Long term memory with qdrant vector database- https://github.com/jason-brian-anderson/long_term_memory_with_qdrant
+moztts- https://github.com/sammyf/moztts
+voicevox_tts- https://github.com/asadfgglie/voicevox_tts
+bark_tts- https://github.com/RandomInternetPreson/text-generation-webui-barktts
+- https://github.com/minemo/text-generation-webui-barktts
+Echoproof-
+XTTSv2- https://github.com/kanttouchthis/text_generation_webui_xtts
+Session_Manager- https://github.com/bekkayya/session_manager/
+Emotivoice_TTS- https://github.com/yhyu13/Emotivoice_TTS
+Twinbook- https://github.com/FartyPants/Twinbook
+Playground for Writers- https://github.com/FartyPants/Playground
+CodeRunner- https://github.com/xr4dsh/CodeRunner
+LibreTranslate- https://github.com/brucepro/LibreTranslate-extension-for-text-generation-webui
+Ooba_Dieroller- https://github.com/TheInvisibleMage/ooba_dieroller
+edge_tts- https://github.com/BuffMcBigHuge/text-generation-webui-edge-tts
+Web_Search- https://github.com/simbake/web_search
+PiperTTS- https://github.com/tijo95/piper_tts
+Virtual Lora- https://github.com/FartyPants/VirtualLora
+llm_steer-oobabooga- https://github.com/Hellisotherpeople/llm_steer-oobabooga/tree/main
+More translators- text-generation-webui-extensions
+Model Ducking- https://github.com/BoredBrownBear/text-generation-webui-model_ducking
+complex_memory- https://github.com/theubie/complex_memory
+sd_api_pictures_tag_injection-https://github.com/GuizzyQC/sd_api_pictures_tag_injection
+ChatbotClinic- https://github.com/p-e-w/chatbot_clinic
+SpeaksLocal- text-generation-webui-extensions
+StableDiff- https://github.com/Trojaner/text-generation-webui-stable_diffusion
+WebRAG- https://github.com/Anglebrackets/web_rag
+CodeSYntaxHL- https://github.com/DavG25/text-generation-webui-code_syntax_highlight
+IntergrateTavernUICharacters- https://github.com/SkinnyDevi/webui_tavernai_charas
+Diffusion_TTS-https://github.com/SicariusSicariiStuff/Diffusion_TTS
+LucidWebSearch-https://github.com/RandomInternetPreson/LucidWebSearch
+Lucid_Vision- https://github.com/RandomInternetPreson/Lucid_Vision
+Memoir+- https://github.com/brucepro/Memoir
+google_translate_plus- https://github.com/Vasyanator/google_translate_plus
+LLM_Web_search- https://github.com/oobabooga/text-generation-webui
+text-generation-webui-extensions-
+SillyTavern- https://github.com/SillyTavern/SillyTavern
+AIHorde- https://github.com/Haidra-Org/AI-Horde
+HordeLib- https://github.com/Haidra-Org/hordelib
+AiderAI- https://github.com/Aider-AI/aider
+Haidra- https://github.com/Haidra-Org
+Atlas- https://www.atlas.org/
+Lucid- https://dbzer0.itch.io/lucid-creations
+LynxHub- https://github.com/KindaBrazy/LynxHub
+SwarmUI- https://github.com/mcmonkeyprojects/SwarmUI
+Kohya'sGUI- https://github.com/bmaltais/kohya_ss
+OneTrainer- https://github.com/Nerogar/OneTrainer
+StableDiffusionWebuiForge- https://github.com/lllyasviel/stable-diffusion-webui-forge
+StableDiffusionWebuiAMDgpuForge- https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu-forge
+AudioWebUI- https://github.com/gitmylo/audio-webui
+TTS Generation Web UI- https://github.com/rsxdalv/tts-generation-webui
+StableTuner- https://github.com/devilismyfriend/StableTuner
+MGDS- https://github.com/Nerogar/mgds]
